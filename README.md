@@ -41,7 +41,7 @@ This can be achieved by eating the rockets
 Once you level up you enter the darker parts of the ocean and have the option of eating
 larger fishes.
 <p align="center">
-  <img src="images/level up.bmp" />
+  <img src="images/level up.JPG" />
 </p>
 
 ______________________________________________________________________________________
